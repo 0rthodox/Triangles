@@ -1,0 +1,14 @@
+
+*.o
+
+*.exe
+
+*.csv
+
+*.cbp
+
+*.depend
+
+Triangles\.layout
+
+*.layout
